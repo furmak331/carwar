@@ -20,3 +20,7 @@ connection.connect(err => {
 });
 
 module.exports = connection;
+
+module.exports=connection;
+console.log ("connected to network database now comment out this line and the line above this ")
+console .
